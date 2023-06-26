@@ -10,7 +10,7 @@
 - Audio Super Resolution
 - Age and Gender Identification
 - Speaker Identification
-- Persian Speech to Number
+- Speaker diarisation
 - Automatic Punctuation for Persian ASR
 - Machine Translation
 - Persian OCR
